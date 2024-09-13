@@ -1,1 +1,1 @@
-# python_email_scraper
+# python_email_scraper with Selenium and chrome driver
